@@ -11,7 +11,7 @@
 <div align="center">
 
 ```ascii
-                      ⚡ NAKAMA TECH STACK ⚡
+                      ⚡ ANTONYALZA TECH STACK ⚡
                            
      ⛵  Front-End        🏴‍☠️  Back-End         🗺️  Data  
     ════════════════    ════════════════    ════════════════
@@ -41,7 +41,7 @@
 class SoftwareJourney:
     def __init__(self):
         self.current_location = "Grand Line of Code"
-        self.nakama = ["Python", "JavaScript", "Data Engineering"]
+        self.antonalza = ["Python", "JavaScript", "Data Engineering"]
         self.dream = "Create impactful applications"
         
     def daily_routine(self):
@@ -82,7 +82,7 @@ class SoftwareJourney:
 
 <div align="center">
 
-### 『 Nakama Stats 』
+### 『 antonalza Stats 』
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
